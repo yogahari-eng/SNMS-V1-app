@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SNMS</string>
+    <string name="status_active">Notification Listener Active</string>
+    <string name="status_inactive">Notification Listener Inactive</string>
+    <string name="permission_rationale">SNMS needs Notification Access to capture and classify your notifications.</string>
+    <string name="enable_access">Enable Access</string>
+    <string name="focus_mode">Focus Mode</string>
+    <string name="focus_mode_desc">Show only HIGH priority notifications</string>
+    <string name="clear_all">Clear All</string>
+    <string name="no_notifications">No notifications yet</string>
+</resources>
